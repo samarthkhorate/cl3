@@ -1,0 +1,10 @@
+javac *.java
+
+java HotelServer
+
+
+Run Client (new terminal)
+
+
+java HotelClient
+

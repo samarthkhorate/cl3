@@ -1,0 +1,14 @@
+1)   javac *.java
+
+2)   java RMIServer       o/p - RMI Server is running...
+
+3)   Run Client (new terminal)
+      command - java RMIClient  
+     
+
+
+o/p - 
+
+Enter first string: Hello
+Enter second string: World
+Concatenated String: HelloWorld
